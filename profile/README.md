@@ -1,12 +1,12 @@
-[![Main Banner (click to open VK official group)](./src/splash.png)](https://vk.com/kolibracorp.official)
+[![Main Banner (click to open VK official group)](.profile/src/splash.png)](https://vk.com/kolibracorp.official)
 
-![Boop](./src/board1.png)
+![Boop](./profile/src/board1.png)
 
 ## 👋 Привет всем
 
 Это официальный репозиторий Kolibra Studios. Здесь будут содержаться репозитории интересных и открытых проектов.
 
-![Boop](./src/board2.png)
+![Boop](./profile/src/board2.png)
 
 ## 📝 Интересные проекты Kolibra Studios
 
@@ -22,7 +22,7 @@
 
 <br>
 
-![Boop](./src/board4.png)
+![Boop](./profile/src/board4.png)
 
 ## 📌 Закреплённое сообщение
 
