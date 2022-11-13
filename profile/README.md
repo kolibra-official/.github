@@ -1,4 +1,4 @@
-![Main Banner (click to open VK official group)](.profile/src/splash.png)](https://vk.com/kolibracorp.official)
+![Main Banner (click to open VK official group)](.profile/src/splash.png)(https://vk.com/kolibracorp.official)
 
 ![Boop](./profile/src/board1.png)
 
