@@ -1,4 +1,4 @@
-[![Kolibra Studios Banner](./src/splash.png)](https://vk.com/kolibracorp.official)
+[![Kolibra Banner](./src/splash_new.png)](https://vk.com/kolibra.group)
 
 ![Boop](./src/board1.png)
 
